@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+    max-width: 253px;
+    margin: auto;
+}
+
+h1 {
+    max-width: 490px;
+    margin: auto;
+    margin-bottom: 25px;
+}
